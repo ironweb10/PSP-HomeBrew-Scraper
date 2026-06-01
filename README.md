@@ -1,1 +1,1 @@
-# PSP-HomeBrew-Scrapper
+# PSP-HomeBrew-Scraper
