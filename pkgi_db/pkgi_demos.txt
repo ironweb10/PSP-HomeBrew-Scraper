@@ -1,6 +1,6 @@
 eloa-00700-00000,5,PSPlasma,demoscene prod  PSP homebrew,,https://archive.org/download/eloa-00700-00000/PSPlasma.zip,0,
 planethively_psp.7z,5,Planet Hively,demoscene prod  PSP homebrew,,https://archive.org/download/planethively_psp.7z/planethively_psp.zip,0,
-funky.7z,5,Funky Demo,demoscene prod  NEO Summer Coding Compo 2006  PSP homebrew,,https://archive.org/download/funky.7z/funky.zip,0,
+funky.7z,5,Funky Demo,demoscene prod  PSP homebrew  NEO Summer Coding Compo 2006,,https://archive.org/download/funky.7z/funky.zip,0,
 hires_hunt_p.7z,5,HiRes Hunt,demoscene prod  PSP homebrew,,https://archive.org/download/hires_hunt_p.7z/hires_hunt_p.zip,0,
 pr_thepsp.7z,5,ThePSP,demoscene prod  PSP homebrew,,https://archive.org/download/pr_thepsp.7z/pr_thepsp.zip,0,
 bpss_v2,5,Breakpoint 2008 PSP Slideshow,demoscene prod  PSP homebrew,,https://archive.org/download/bpss_v2/bpss_v2.zip,0,
